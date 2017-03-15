@@ -91,3 +91,6 @@ ENV/
 # data
 data/
 results/
+
+# pycharm
+.idea/
